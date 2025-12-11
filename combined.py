@@ -37,7 +37,7 @@ from botorch.utils.transforms import normalize, unnormalize, standardize
 from gpytorch.mlls import ExactMarginalLogLikelihood
 
 # --- CONFIGURATION ---
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "MUAHAHAHAHA"
 
 warnings.filterwarnings('ignore')
 
