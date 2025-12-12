@@ -1,4 +1,4 @@
-## **Project-4: Bayesian Optimisation for Hydrogen Production​**
+## **Project-4: Bayesian Optimisation for Hydrogen Evolution Rate​**
 
 The project employs a hybrid optimisation workflow for chemical experimentation. It uses Bayesian Optimisation (BoTorch/GPyTorch) to quantitatively recommend the next best experimental candidates, and a Large Language Model based on OpenAI GPT-4 to offer scientific reasoning and "sanity checks" on the suggested formulations. The system is intended to optimise a chemical mixture that includes ten distinct components in order to maximise hydrogen generation yield while adhering to rigorous chemical restrictions and discretisation requirements.
 
